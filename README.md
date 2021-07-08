@@ -1,8 +1,8 @@
-# Fabric Example Mod
+# WorkBench
 
-## Setup
+## It is in dev!!
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+It runs mods on the client without being on the server... that simple (: 
 
 ## License
 
